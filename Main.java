@@ -5,4 +5,4 @@ class Main {
     tests.testFrancMultiplication();
     tests.testEquality();
   }
-} 
+}
